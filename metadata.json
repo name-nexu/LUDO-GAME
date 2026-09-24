@@ -1,0 +1,6 @@
+{
+  "name": "NEXU Ludo",
+  "description": "Production-ready premium futuristic multiplayer Ludo game with real deterministic rule engine, AI & local play, room codes, live match state, XP levels, achievements, and coin economy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

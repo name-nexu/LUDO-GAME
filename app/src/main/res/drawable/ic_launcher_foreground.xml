@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Central Futuristic Shield Base -->
+    <path
+        android:fillColor="#151E33"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="1.5"
+        android:pathData="M54,23 L79,35 L79,67 L54,85 L29,67 L29,35 Z" />
+
+    <!-- Isometric 3D Dice / Nexus Center -->
+    <!-- Top Face -->
+    <path
+        android:fillColor="#00F0FF"
+        android:pathData="M54,34 L68,42 L54,50 L40,42 Z" />
+    
+    <!-- Left Face -->
+    <path
+        android:fillColor="#00B0FF"
+        android:pathData="M40,42 L54,50 L54,66 L40,58 Z" />
+        
+    <!-- Right Face -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M54,50 L68,42 L68,58 L54,66 Z" />
+
+    <!-- Center Pip / Gem -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,40 A2,2 0 1,0 54,44 A2,2 0 1,0 54,40 Z" />
+
+    <!-- 4 Colored Player Nodes (Cyan, Gold, Emerald, Crimson) -->
+    <!-- Top (Cyan) -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M54,23 A4,4 0 1,0 54,31 A4,4 0 1,0 54,23 Z" />
+
+    <!-- Right (Gold) -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M75,65 A4,4 0 1,0 75,73 A4,4 0 1,0 75,65 Z" />
+
+    <!-- Bottom (Emerald) -->
+    <path
+        android:fillColor="#00E676"
+        android:pathData="M54,77 A4,4 0 1,0 54,85 A4,4 0 1,0 54,77 Z" />
+
+    <!-- Left (Crimson) -->
+    <path
+        android:fillColor="#FF3D71"
+        android:pathData="M33,65 A4,4 0 1,0 33,73 A4,4 0 1,0 33,65 Z" />
+
+    <!-- Inner Core Pip -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M47,51 A1.5,1.5 0 1,0 47,54 A1.5,1.5 0 1,0 47,51 Z
+                          M61,51 A1.5,1.5 0 1,0 61,54 A1.5,1.5 0 1,0 61,51 Z" />
+</vector>
